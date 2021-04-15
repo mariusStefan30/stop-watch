@@ -8,4 +8,4 @@ _Some variable name are in **romanian** language._
 
 ---------------------------------------------------
 
-![Spring is here!](https://www.freeimages.com/photo/spring-1373199)
+
