@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="StopWatch.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="StopWatch.css" />
     <title>StopWatch</title>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <h1>Cronometer</h1>
-        <h2>JavaScript Cronometru</h2>
-        <p><span id="seconds">00</span>:<span id="tens">00</span></p>
+      <h1>JavaScript Cronometer</h1>
+      <p>
+        <span id="hours">00</span><span id="colon">:</span
+        ><span id="minutes">00</span><span id="colon">:</span
+        ><span id="seconds">00</span><span id="colon">:</span
+        ><span id="tens">00</span>
+      </p>
+      <div class="buttons">
         <button id="start">Start</button>
         <button id="stop">Stop</button>
         <button id="reset">Reset</button>
+      </div>
     </div>
     <script src="StopWatch.js"></script>
-</body>
+  </body>
 </html>
