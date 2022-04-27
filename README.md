@@ -1,11 +1,11 @@
-# StopWatch example
+# StopWatch Html/Css/Javascript
 =====================
 
-_Not completed._
+_Completed._
 ---------------------------------------------------
 
 [AboutMe](https://github.com/rex28/About-Me)
 
 ---------------------------------------------------
 
-![](Screenshot(10).png)
+![](./Screenshot(10).png)
