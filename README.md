@@ -8,4 +8,4 @@ _Completed._
 
 ---------------------------------------------------
 
-![Screenshot](/Screenshot (10).png)
+![Screenshot](./Screenshot (10).png)
